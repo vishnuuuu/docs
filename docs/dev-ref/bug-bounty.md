@@ -89,4 +89,4 @@ Reach us via email (bugs@umaproject.org).
 For more information on the UMA platform, check out our [website](http://www.umaproject.org) and [Github](https://github.com/UMAprotocol/).
 
 All reward determinations, including eligibility and payment amount, are made at UMA’s sole discretion.
-UMA reserves the right to reject submissions and alter the terms and conditions of this program without notice.
+UMA reserves the right to reject submissions and alter the terms and conditions of this program without notices.
